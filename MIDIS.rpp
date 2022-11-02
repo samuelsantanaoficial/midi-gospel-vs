@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.69/win64" 1667411124
+<REAPER_PROJECT 0.1 "6.69/win64" 1667411872
   <NOTES 0 2
   >
   RIPPLE 0
@@ -16,8 +16,8 @@
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 1449.1210116864775
-  ZOOM 0.23758816802973 0 0
+  CURSOR 912.38099066678205
+  ZOOM 1.84762498668528 1387 0
   VZOOMEX 3 0
   USE_REC_CFG 0
   RECMODE 1
@@ -6757,7 +6757,7 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
-    SEL 0
+    SEL 1
     REC 0 0 1 0 0 0 0 0
     VU 2
     SCORE 0 10 0 0
@@ -12320,7 +12320,7 @@
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {4348F8BE-A181-4AC9-A7CC-6A6270275CA8}
       IID 536
       NAME 00-DRUMS-glued
@@ -13774,7 +13774,35 @@
         E 0 99 2e 1d
         E 240 89 24 00
         E 0 89 2e 00
-        E 15600 99 2a 6f
+        E 240 99 24 5d
+        e 0 99 2e 73
+        E 240 89 24 00
+        e 0 89 2e 00
+        E 240 99 26 73
+        E 240 89 26 00
+        E 240 99 2a 64
+        E 240 89 2a 00
+        E 0 99 26 2b
+        E 240 89 26 00
+        E 0 99 2a 54
+        E 0 99 24 5e
+        E 240 89 2a 00
+        E 0 89 24 00
+        E 240 99 26 73
+        E 240 89 26 00
+        E 360 99 26 19
+        E 240 89 26 00
+        E 120 99 26 74
+        E 240 89 26 00
+        E 240 99 26 71
+        E 70 99 28 66
+        E 170 89 26 00
+        E 70 89 28 00
+        E 170 99 31 66
+        E 0 99 24 66
+        E 240 89 31 00
+        E 0 89 24 00
+        E 11280 99 2a 6f
         E 240 89 2a 00
         E 720 99 2a 5f
         E 240 89 2a 00
@@ -15489,6 +15517,11 @@
         IGNTEMPO 0 120 4 4
         SRCCOLOR 2759
         VELLANE 131 121 0
+        CFGEDITVIEW 213958.695916 0.041105 64 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 189
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 4 32 75 1295 715 0 0 0 1 0 0 0 1 0 0.5 0 0 1 64
       >
     >
     <ITEM
@@ -43083,7 +43116,7 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0
@@ -43283,7 +43316,7 @@
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {8FB39263-716A-4547-9DF1-7D127B0A00A3}
       IID 581
       NAME "VOCAL untitled MIDI item-glued"
