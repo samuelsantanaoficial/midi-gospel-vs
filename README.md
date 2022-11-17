@@ -1,6 +1,13 @@
-# Arquivos Midi gospel para VS
-## Arquivos editados por; Samuel Santana
+# Arquivos Midi gospel
+## por; Samuel Santana
 
 * Compatível com GENERAL MIDI
 * Feito pra criação de VS
-* Marcadores com GUIAS
+* Marcadores & GUIAS
+* Arrquivos criados, editados, e revisados
+* Sempre atualizados e corrigidos
+* Em tom original + tom alternativo
+
+<https://sfz.tools/sfizz/>
+
+<https://github.com/samuelsantanaoficial/GM-SFZ>
