@@ -1,5 +1,6 @@
 # Arquivos Midi gospel
 ## por; Samuel Santana
+### v2.0.5
 
 * Compatível com GENERAL MIDI
 * Feito pra criação de VS
